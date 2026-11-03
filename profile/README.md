@@ -2,7 +2,7 @@
 
 # 🛡️ CGI Canada — Cybersecurity
 
-**Protecting what matters · Protéger ce qui compte**
+**Assess risk - Protect your business - Operate with confidence**
 
 [![Website](https://img.shields.io/badge/cgi.com-Cybersecurity-E31937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.cgi.com/canada/en-ca/cybersecurity)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CGI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cgi/)
@@ -27,20 +27,20 @@ This organization hosts the tools, scripts, templates and technical content buil
 | Area | Description |
 |---|---|
 | 🧭 **Strategy & advisory** | Governance, risk management, compliance and cybersecurity roadmaps |
+| 🗄️ **Data protection** | Classification, encryption and privacy |
 | 🔐 **Identity & access management (IAM)** | Access control, privileged access and *Zero Trust* |
 | ☁️ **Cloud security** | Securing cloud and hybrid environments, DevSecOps |
 | 🛰️ **Managed security services** | 24/7 monitoring, detection and response (SOC, MDR) |
 | 🧪 **Penetration testing & assessment** | Pen testing, vulnerability assessment, red teaming |
 | 🚨 **Incident response** | Readiness, investigation, containment and recovery |
 | 🏭 **OT / IoT security** | Protecting operational technology and critical infrastructure |
-| 🗄️ **Data protection** | Classification, encryption and privacy |
 
 ### 📦 What you'll find here
 
-- 🛠️ Security automation **tools and scripts**
+- 📚 **Documentation**, guides and best practices
+- - 🛠️ Security automation **tools and scripts**
 - 📐 Secure infrastructure (IaC) and policy **templates**
 - 🔎 **Detection rules** and threat-hunting content
-- 📚 **Documentation**, guides and best practices
 
 ### 🤝 Contributing
 
@@ -67,20 +67,20 @@ Ce compte regroupe les outils, scripts, gabarits et contenus techniques dévelop
 | Domaine | Description |
 |---|---|
 | 🧭 **Stratégie et conseil** | Gouvernance, gestion des risques, conformité et feuilles de route de cybersécurité |
+| 🗄️ **Protection des données** | Classification, chiffrement et protection de la vie privée |
 | 🔐 **Gestion des identités et des accès (IAM)** | Contrôle des accès, accès privilégiés et approche *Zero Trust* |
 | ☁️ **Sécurité infonuagique** | Sécurisation des environnements cloud et hybrides, DevSecOps |
 | 🛰️ **Services de sécurité gérés** | Surveillance 24/7, détection et réponse (SOC, MDR) |
 | 🧪 **Tests d'intrusion et évaluation** | Tests de pénétration, évaluation des vulnérabilités, *red teaming* |
 | 🚨 **Réponse aux incidents** | Préparation, investigation, confinement et reprise |
 | 🏭 **Sécurité des TO / IoT** | Protection des technologies opérationnelles et des infrastructures critiques |
-| 🗄️ **Protection des données** | Classification, chiffrement et protection de la vie privée |
 
 ### 📦 Ce que vous trouverez ici
 
+- 📚 **Documentation**, guides et bonnes pratiques
 - 🛠️ **Outils et scripts** d'automatisation de la sécurité
 - 📐 **Gabarits** d'infrastructure sécurisée (IaC) et de politiques
 - 🔎 **Règles de détection** et contenus pour la chasse aux menaces
-- 📚 **Documentation**, guides et bonnes pratiques
 
 ### 🤝 Contribuer
 
